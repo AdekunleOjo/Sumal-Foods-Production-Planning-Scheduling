@@ -79,7 +79,7 @@ The demand simulation combines baseline weekly demand assumptions, a progressive
 
 ### Demand Trend
 
-![Weekly demand trend](images/weekly_demand_trend.png)
+![Sumal-Foods-Production-Planning-Scheduling](https://github.com/AdekunleOjo/Sumal-Foods-Production-Planning-Scheduling/blob/main/Images/trend%20analysis.png)
 
 *Figure 1. Simulated weekly demand across the four biscuit products.*
 
@@ -119,7 +119,7 @@ The model then flags materials whose aggregate requirements exceed the available
 
 ### Material Shortage Analysis
 
-![Material shortage analysis](images/material_shortage_analysis.png)
+![Sumal-Foods-Production-Planning-Scheduling](https://github.com/AdekunleOjo/Sumal-Foods-Production-Planning-Scheduling/blob/main/Images/Material%20shortage%20analysis.png)
 
 *Figure 2. Comparison of estimated gross material requirements and opening inventory.*
 
